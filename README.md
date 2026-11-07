@@ -30,7 +30,7 @@ Computer Science student at Temple University, Japan Campus, interested in softw
 - Manage website files and deploy updates using Git and GitHub.
 - Use AI-assisted tools to support website development, implementation, and troubleshooting.
 
-**Website:** [Sunrose Japan](https://sunrosejapan.com)
+
 **Source Code:** [GitHub Repository](https://github.com/sangharsha18/sunrosejapan)
 
 ## Leadership & Community Involvement
